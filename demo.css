@@ -1,0 +1,105 @@
+.header {
+  height: 70px;
+  margin: 5px;
+  display: flex;
+  flex-direction: row;
+}
+#amazon {
+  background-color: aquamarine;
+  margin-left: 70px;
+}
+/* p {
+ 
+  font-size: 17px;
+} */
+#Colors {
+  transition: 0.8s all ease;
+}
+a {
+  margin: 18px 20px;
+  font-size: large;
+}
+input[type="range"] {
+  -webkit-appearance: slider-vertical;
+}
+.body {
+  background-color: aquamarine;
+  height: 65vh;
+  display: flex;
+  padding: 50px;
+}
+.images {
+  margin-left: 80px;
+}
+img {
+  margin-right: 75px;
+  margin-bottom: 30px;
+}
+span {
+  font-size: 35px;
+  margin-right: 5px;
+  font-weight: bold;
+}
+
+.footer {
+  height: 150px;
+}
+li {
+  line-height: 25px;
+  color: azure;
+}
+li:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+/* thead {
+  background-color: hotpink;
+} */
+/* tr:nth-child(even) {
+  background-color: whitesmoke;
+}
+tr:nth-child(odd) {
+  background-color: powderblue;
+} */
+/* th {
+  color: brown;
+} */
+#link:hover {
+  color: tomato;
+}
+
+/* .dark-theme{
+  background-color: rgba(195, 223, 247, 0.877);
+  color:rgb(65, 55, 55);
+}
+.light-theme{
+  background-image: linear-gradient(to top, rgb(202, 191, 193), rgb(108, 189, 226));
+  color:rgb(211, 106, 106);
+} */
+/* #Colors{
+   background-image: url('../public/shoppingBackground.jpg');
+}  */
+.text-red {
+  transition: all 1s ease-in-out;
+}
+#formContainer {
+  background-image: url("../public/gaming1.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+}
+.carousel-caption{
+  font-size: 15px;
+  font-family:monospace;
+  line-height: normal;
+}
+h3{
+font-size: 19px;
+font-weight: bold;
+}
+.carousel-control-prev-icon{
+margin-left: -20px;
+}
+.carousel-control-next-icon{
+margin-right: -20px;
+}
