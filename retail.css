@@ -1,0 +1,22 @@
+.prod{
+    margin: 20px;
+    font-size: large;
+    text-decoration: none;
+    color: blue;
+}
+.container-fluid{
+    padding-top: 30px;
+    text-align: center;
+}
+.routees{
+    padding-top: 100px;
+}
+.field{
+    width: 300px;
+}
+.search{
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
